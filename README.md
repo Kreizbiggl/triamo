@@ -47,6 +47,7 @@ const DB_TABLE_PREFIX = 'triamo_';    // Tabellen-Präfix (kann so bleiben)
 const GOOGLE_BOOKS_API_KEY = 'DEIN_GOOGLE_API_KEY'; // Dein Google Books API Key
 const CRON_TOKEN = 'DEIN_ZUFÄLLIGER_GEHEIMER_TOKEN'; // Eine lange, zufällige Zeichenkette zur Absicherung von Hintergrundprozessen
 // =====================================================================================
+```php
 
 
 

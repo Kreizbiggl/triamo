@@ -1,4 +1,4 @@
-# triamo
+# Triamo
 A software/platform for managing book metadata.
 
 <p align="center">

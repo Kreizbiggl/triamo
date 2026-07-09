@@ -51,15 +51,16 @@ const CRON_TOKEN = 'DEIN_ZUFÄLLIGER_GEHEIMER_TOKEN'; // Eine lange, zufällige 
 
 
 
-Erster Aufruf: Rufe deine Domain im Browser auf (z. B. https://deine-domain.de). TRIAMO erkennt die leere Datenbank, legt alle benötigten Tabellen automatisch an und leitet dich direkt zur Erstellung des Administrator-Kontos weiter.
+## Erster Aufruf:
+Rufe deine Domain im Browser auf (z. B. https://deine-domain.de). TRIAMO erkennt die leere Datenbank, legt alle benötigten Tabellen automatisch an und leitet dich direkt zur Erstellung des Administrator-Kontos weiter.
 
-Rechtliche Hinweise & Vorlagen
+## Rechtliche Hinweise & Vorlagen
 Im Repository befinden sich die Dateien impressum.php und datenschutz.php. Diese enthalten neutrale Platzhalter (z. B. [DEIN NAME]).
 
 Bitte öffne diese Dateien vor der Nutzung und trage dort deine tatsächlichen, gesetzlich geforderten Daten ein.
 
-Lizenz
+## Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Das bedeutet, du darfst den Code frei verwenden, modifizieren und teilen, solange der ursprüngliche Copyright-Hinweis erhalten bleibt. Details findest du in der LICENSE-Datei.
 
-Kontakt & Projekt-Zuhause
+## Kontakt & Projekt-Zuhause
 Entwickelt unter dem Pseudonym Kreizbiggl.
